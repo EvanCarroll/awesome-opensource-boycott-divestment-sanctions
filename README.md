@@ -43,7 +43,7 @@ movement.](https://bdsmovement.net/)
 Found an awesome project, package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-say *hi* on [Twitter](https://twitter.com/EvanCarroll).**
+say *hi* on [Twitter](https://twitter.com/TheEvanCarroll).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
