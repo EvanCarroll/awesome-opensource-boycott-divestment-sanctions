@@ -30,8 +30,15 @@ movement.](https://bdsmovement.net/)
 * [McKenzie Heritage d/b/a WhiteNervosa](https://github.com/WhiteNervosa)
 * Want to add yourself as an individual? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
+## License
+If you want to attach the terms of BDS to a geographical limitation on use, you can see a license here that provides that,
+
+* [BDS BY-NC-SA](/LICENSE.md)
+
 ## Projects
 * Want to add your project? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+
+* [xbrowser](https://github.com/EvanCarroll/xbrowser) (licensed under BDS BY-NC-SA)
 
 ## Companies
 * Want to add a company? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
