@@ -24,10 +24,10 @@ movement.](https://bdsmovement.net/)
 - [Companies](#companies)
 - [Organizations](#organizations)
 
-
 ## Individuals
 * [Evan Carroll](https://github.com/EvanCarroll)
 * [McKenzie Heritage d/b/a WhiteNervosa](https://github.com/WhiteNervosa)
+* [Hashim Aziz](https://github.com/hashimaziz1)
 * Want to add yourself as an individual? Send me a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ## License
